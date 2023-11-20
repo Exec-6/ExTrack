@@ -15,7 +15,9 @@
       "variants": [
         {
           "name": "ExTrack Map and Items",
-          "flags": [ "map", "pins" ]
+          "flags": [ "map", 
+                    "pins" 
+                    ]
         },
         {
           "name": "ExTrack Items only",
