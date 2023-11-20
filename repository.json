@@ -1,0 +1,26 @@
+{
+  "name": "Execs Map- and Item Tracker",
+  "packages": [
+    {
+      "name": "Terranigma Map- and Item Tracker",
+      "author": "Exec",
+      "game_name": "Terranigma Randomizer",
+      "flags": [
+        "map",
+        "pins",
+        "chathud"
+      ],
+      "version": "1.0.0.0",
+      "uid": "terratracker_extrack",
+      "link": "",
+      "documentation_url": "",
+      "variants": [
+        {
+          "extrack": {
+      "display_name":  "ExTrack Items"
+	}
+        }
+      ]
+    }
+  ]
+}
