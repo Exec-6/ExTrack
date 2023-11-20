@@ -11,8 +11,7 @@
       ],
       "version": "1.0.0.0",
       "uid": "terratracker_extrack",
-      "link": "",
-      "documentation_url": "",
+      "link": "https://github.com/Exec-6/ExTrack/raw/main/repository.json",
       "variants": [
         {
           "name": "ExTrack Map and Items",
