@@ -2,7 +2,7 @@
   "name": "Execs Map- and Item Tracker",
   "packages": [
     {
-      "name": "Terranigma Map- and Item Tracker",
+      "name": "Execs Map and Item Tracker",
       "author": "Exec6",
       "game_name": "Terranigma Randomizer",
       "flags": [
@@ -15,7 +15,7 @@
       "variants": [
         {
           "name": "ExTrack Map and Items",
-          "flags": [ "map" ]
+          "flags": [ "map", "pins" ]
         },
         {
           "name": "ExTrack Items only",
