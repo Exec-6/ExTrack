@@ -14,13 +14,13 @@
       "link": "https://github.com/Exec-6/ExTrack/raw/main/terratracker_extrack.zip",
       "variants": [
         {
-          "extrackmap": "ExTrack Map and Items",
+          "name": "ExTrack Map and Items",
           "flags": [ "map", 
                     "pins" 
                     ]
         },
         {
-          "extrack": "ExTrack Items Only",
+          "name": "ExTrack Items Only",
           "flags": [ ]
         }
       ]
