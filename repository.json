@@ -21,11 +21,12 @@
         },
         {
           "name": "ExTrack Items Only",
-          "flags": [ "autotracker" 
+          "flags": [ "" 
                     ]
         }
       ]
     }
   ]
 }
+
 
